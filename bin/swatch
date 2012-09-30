@@ -1,0 +1,3 @@
+#!/usr/bin/env node
+var Swatch = require('../index').Swatch;
+var swatch = new Swatch('./');

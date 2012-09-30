@@ -1,0 +1,21 @@
+{
+  "name": "swatch",
+  "version": "0.0.0",
+  "description": "Folder watcher and asset compiler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "compiler",
+    "assets",
+    "watch"
+  ],
+  "dependencies": {
+    "mochiscript": "*",
+    "watch": "*",
+    "mkdirp": "*"
+  },
+  "author": "Jeff Su",
+  "license": "BSD"
+}
